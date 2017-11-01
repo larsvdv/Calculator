@@ -1,0 +1,16 @@
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\CalculatorTest1.dll
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\CalculatorTest1.pdb
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Calculator2.exe
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Calculator2.pdb
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Calculator2.exe.config
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\obj\Debug\CalculatorTest1.csprojResolveAssemblyReference.cache
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\obj\Debug\CalculatorTest1.csproj.CoreCompileInputs.cache
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\obj\Debug\CalculatorTest1.dll
+C:\Users\nieu0082\Documents\Calculator\Calculator\CalculatorTest1\obj\Debug\CalculatorTest1.pdb
